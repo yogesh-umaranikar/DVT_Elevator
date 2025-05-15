@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DVT_Elevator.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DVT_Elevator.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DVT_Elevator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DVT_Elevator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DVT_Elevator.Domain/DVT_Elevator.Domain.csproj",
+      "msbuildProject": "../DVT_Elevator.Domain/DVT_Elevator.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DVT_Elevator.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Test\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\RnD\\DVT_Elevator\\DVT_Elevator.Application\\DVT_Elevator.Application.csproj",
+      "projectName": "DVT_Elevator.Application",
+      "projectPath": "C:\\RnD\\DVT_Elevator\\DVT_Elevator.Application\\DVT_Elevator.Application.csproj",
+      "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
+      "outputPath": "C:\\RnD\\DVT_Elevator\\DVT_Elevator.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\RnD\\DVT_Elevator\\DVT_Elevator.Domain\\DVT_Elevator.Domain.csproj": {
+              "projectPath": "C:\\RnD\\DVT_Elevator\\DVT_Elevator.Domain\\DVT_Elevator.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

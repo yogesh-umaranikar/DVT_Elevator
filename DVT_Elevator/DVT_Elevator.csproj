@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DVT_Elevator.Application\DVT_Elevator.Application.csproj" />
+    <ProjectReference Include="..\DVT_Elevator.Domain\DVT_Elevator.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

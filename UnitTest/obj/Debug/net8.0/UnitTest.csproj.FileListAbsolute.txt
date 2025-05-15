@@ -1,0 +1,17 @@
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\UnitTest.deps.json
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\UnitTest.dll
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\UnitTest.pdb
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\DVT_Elevator.Application.dll
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\DVT_Elevator.Domain.dll
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\DVT_Elevator.Application.pdb
+C:\RnD\DVT_Elevator\UnitTest\bin\Debug\net8.0\DVT_Elevator.Domain.pdb
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.csproj.AssemblyReference.cache
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfoInputs.cache
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.AssemblyInfo.cs
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.csproj.CopyComplete
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.dll
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\refint\UnitTest.dll
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\UnitTest.pdb
+C:\RnD\DVT_Elevator\UnitTest\obj\Debug\net8.0\ref\UnitTest.dll

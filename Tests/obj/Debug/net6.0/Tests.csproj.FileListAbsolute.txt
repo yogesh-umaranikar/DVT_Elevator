@@ -1,0 +1,5 @@
+C:\RnD\DVT_Elevator\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\RnD\DVT_Elevator\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\RnD\DVT_Elevator\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\RnD\DVT_Elevator\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\RnD\DVT_Elevator\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache

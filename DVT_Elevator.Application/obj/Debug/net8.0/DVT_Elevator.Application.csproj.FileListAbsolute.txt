@@ -1,0 +1,15 @@
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\bin\Debug\net8.0\DVT_Elevator.Application.deps.json
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\bin\Debug\net8.0\DVT_Elevator.Application.dll
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\bin\Debug\net8.0\DVT_Elevator.Application.pdb
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\bin\Debug\net8.0\DVT_Elevator.Domain.dll
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\bin\Debug\net8.0\DVT_Elevator.Domain.pdb
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.csproj.AssemblyReference.cache
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.AssemblyInfoInputs.cache
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.AssemblyInfo.cs
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.csproj.CoreCompileInputs.cache
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.csproj.CopyComplete
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.dll
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\refint\DVT_Elevator.Application.dll
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.pdb
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\ref\DVT_Elevator.Application.dll
