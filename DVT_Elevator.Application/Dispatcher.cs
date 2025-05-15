@@ -26,7 +26,11 @@ namespace DVT_Elevator.Application
             if (bestElevator != null)
                 bestElevator.AddRequest(floor, passengers);
             else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("All elevators are full or unavailable.");
+                Console.ResetColor();
+            }
         }
 
         public void StepAll()

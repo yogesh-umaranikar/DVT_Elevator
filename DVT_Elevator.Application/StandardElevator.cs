@@ -74,6 +74,7 @@ public class StandardElevator : IElevator
     /// </summary>
     public string Status()
     {
+        Console.ForegroundColor = ConsoleColor.Blue;
         return $"Elevator {Id} with Capacity {Capacity} | Current Floor: {CurrentFloor} | Dir: {Direction} | Passengers: {Passengers}";
     }
 }

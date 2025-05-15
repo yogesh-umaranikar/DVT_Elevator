@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/DVT_Elevator/FileContentIndex
+/.vs/DVT_Elevator/v17/.suo
+/DVT_Elevator/bin/Debug/net8.0/*.pdb
+/DVT_Elevator/bin/Debug/net8.0/*.dll
+/DVT_Elevator/bin/Debug/net8.0/*.cache
+/DVT_Elevator/bin/Debug/net8.0/*.txt

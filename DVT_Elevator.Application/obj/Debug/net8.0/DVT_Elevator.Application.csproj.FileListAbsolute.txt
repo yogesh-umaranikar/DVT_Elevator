@@ -13,3 +13,4 @@ C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Appli
 C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\refint\DVT_Elevator.Application.dll
 C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.pdb
 C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\ref\DVT_Elevator.Application.dll
+C:\RnD\DVT_Elevator\DVT_Elevator.Application\obj\Debug\net8.0\DVT_Elevator.Application.sourcelink.json
