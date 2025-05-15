@@ -18,15 +18,24 @@ namespace DVT_Elevator.Application
 
         public void RequestElevator(int floor, int passengers)
         {
-            var bestElevator = elevators
+            try
+            {
+                var bestElevator = elevators
                 .Where(e => e.Passengers + passengers <= e.Capacity)
                 .OrderBy(e => Math.Abs(e.CurrentFloor - floor))
                 .FirstOrDefault();
 
-            if (bestElevator != null)
-                bestElevator.AddRequest(floor, passengers);
-            else
-                Console.WriteLine("All elevators are full or unavailable.");
+                if (bestElevator != null)
+                    bestElevator.AddRequest(floor, passengers);
+                else
+                {
+                    new DomainException("All elevators are full or unavailable.");
+                }
+            }
+            catch (Exception ex)
+            {
+                new DomainException(ex.Message);
+            }
         }
 
         public void StepAll()

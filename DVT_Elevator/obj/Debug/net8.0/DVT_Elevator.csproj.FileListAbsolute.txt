@@ -18,3 +18,4 @@ C:\RnD\DVT_Elevator\DVT_Elevator\obj\Debug\net8.0\refint\DVT_Elevator.dll
 C:\RnD\DVT_Elevator\DVT_Elevator\obj\Debug\net8.0\DVT_Elevator.pdb
 C:\RnD\DVT_Elevator\DVT_Elevator\obj\Debug\net8.0\DVT_Elevator.genruntimeconfig.cache
 C:\RnD\DVT_Elevator\DVT_Elevator\obj\Debug\net8.0\ref\DVT_Elevator.dll
+C:\RnD\DVT_Elevator\DVT_Elevator\obj\Debug\net8.0\DVT_Elevator.sourcelink.json

@@ -23,8 +23,10 @@ namespace DVT_Elevator
             bool running = true;
             while (running)
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Elevator Simulation Started (type 'exit' to quit)");
                 Console.WriteLine("Commands: call <floor> <passengers>");
+                Console.ResetColor();
 
                 controller.Step();
                 controller.DisplayStatus();
