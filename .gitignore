@@ -8,3 +8,8 @@
 /DVT_Elevator/bin/Debug/net8.0/*.dll
 /DVT_Elevator/bin/Debug/net8.0/*.cache
 /DVT_Elevator/bin/Debug/net8.0/*.txt
+
+/DVT_Elevator/bin/obj/net8.0/*.pdb
+/DVT_Elevator/bin/obj/net8.0/*.dll
+/DVT_Elevator/bin/obj/net8.0/*.cache
+/DVT_Elevator/bin/obj/net8.0/*.txt

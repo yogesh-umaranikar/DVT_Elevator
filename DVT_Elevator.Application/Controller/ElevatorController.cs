@@ -27,10 +27,8 @@ namespace DVT_Elevator.Application
             }
             else
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Invalid input. Use: call <floor> <passengers>");
+                new DomainException("Invalid input. Use: call <floor> <passengers>");
             }
-            Console.ResetColor();
         }
 
         public void Step() => dispatcher.StepAll();

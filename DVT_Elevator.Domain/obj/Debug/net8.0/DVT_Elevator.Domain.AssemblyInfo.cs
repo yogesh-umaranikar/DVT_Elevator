@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DVT_Elevator.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e5e5f50a0bfb8aaccb34fd8f50954e16139b515")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d877a559ae068aabe4c8c9c37d148eb804bac0d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DVT_Elevator.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DVT_Elevator.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
