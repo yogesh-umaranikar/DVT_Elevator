@@ -27,7 +27,7 @@ namespace DVT_Elevator.Application
             }
             else
             {
-                new DomainException("Invalid input. Use: call <floor> <passengers>");
+                new DomainException("Invalid input. Use command: call <floor> <passengers>");
             }
         }
 
